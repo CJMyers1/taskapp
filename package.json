@@ -7,7 +7,6 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "node src/index.js",
     "start": "node src/indes.js",
     "dev": "env-cmd ./config/dev.env nodemon src/index.js"
   },
